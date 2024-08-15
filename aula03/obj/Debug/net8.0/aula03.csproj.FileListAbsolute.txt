@@ -1,0 +1,14 @@
+C:\Users\vinyl\Aula01\aula03\bin\Debug\net8.0\aula03.exe
+C:\Users\vinyl\Aula01\aula03\bin\Debug\net8.0\aula03.deps.json
+C:\Users\vinyl\Aula01\aula03\bin\Debug\net8.0\aula03.runtimeconfig.json
+C:\Users\vinyl\Aula01\aula03\bin\Debug\net8.0\aula03.dll
+C:\Users\vinyl\Aula01\aula03\bin\Debug\net8.0\aula03.pdb
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.AssemblyInfoInputs.cache
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.AssemblyInfo.cs
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.dll
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\refint\aula03.dll
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.pdb
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\aula03.genruntimeconfig.cache
+C:\Users\vinyl\Aula01\aula03\obj\Debug\net8.0\ref\aula03.dll
